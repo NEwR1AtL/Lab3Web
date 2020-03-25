@@ -1,0 +1,27 @@
+
+
+body{
+    background: url(../img/sun.jpg) left bottom no-repeat;
+    margin-bottom: 400px;
+}
+
+.personalAnk{
+    font: 1em sans-serif;
+    color: rgb(16, 68, 12);
+}
+
+.idInfo{
+    font-family: Gilroy;
+    font-size: 28px;
+    color: #321BE6
+
+}
+.photo{
+    border-radius: 80px;
+    height: 320px;
+    width: 320px;
+    margin-left: 43%;
+}
+.myInfo{
+    border: 3px outset silver;
+}
